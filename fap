@@ -1,0 +1,10 @@
+LAYERZERO_CHAINS_ID = {
+    'avalanche' : 106,
+    'polygon'   : 109,
+    'ethereum'  : 101,
+    'bsc'       : 102,
+    'arbitrum'  : 110,
+    'optimism'  : 111,
+    'fantom'    : 112,
+    'aptos'     : 108,
+    'harmony'   : 116,
